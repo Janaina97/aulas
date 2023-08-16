@@ -1,0 +1,30 @@
+#um{
+ color: blue;   
+}
+
+.img1{
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    padding: 10px  20px;
+
+}
+.img2{
+    width: 100px;
+    height: 100px;
+
+}
+
+.img3{
+    width: 100px;
+    padding: 20px;
+    padding-left: 20px;
+    border: 2px solid #000;
+    margin: 10px;
+    position: static;
+}
+.bx{
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
